@@ -1,0 +1,26 @@
+﻿  op_lista.c
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(48): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(75): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(118): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(145): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(177): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(178): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(199): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(352): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(353): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(366): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(375): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(450): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(470): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(545): warning C4047: 'return': 'LDE *' differs in levels of indirection from 'int'
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(659): warning C4101: 'i': unreferenced local variable
+  main.c
+c:\users\matheus\desktop\eda\op_lista\op_lista\main.c(52): warning C4047: 'function': 'void (__cdecl *)(void *)' differs in levels of indirection from 'LDE *'
+c:\users\matheus\desktop\eda\op_lista\op_lista\main.c(52): warning C4024: 'mostraLista': different types for formal and actual parameter 2
+  lista.c
+c:\users\matheus\desktop\eda\op_lista\op_lista\lista.c(176): warning C4020: 'mostra': too many actual parameters
+  Generating Code...
+c:\users\matheus\desktop\eda\op_lista\op_lista\lista.c(129): warning C4715: 'removePosicao': not all control paths return a value
+c:\users\matheus\desktop\eda\op_lista\op_lista\op_lista.c(774): warning C4715: 'inicializa_numero': not all control paths return a value
+  op_lista.vcxproj -> C:\Users\Matheus\Desktop\EDA\op_lista\x64\Debug\op_lista.exe
+  op_lista.vcxproj -> C:\Users\Matheus\Desktop\EDA\op_lista\x64\Debug\op_lista.pdb (Partial PDB)
